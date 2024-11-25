@@ -1,10 +1,10 @@
 {
   "name": "PL-BOT",
-  "version": "3.4.5",
-  "main": "dist/e6d7d299dc6ca201.js",
+  "version": "3.6.0",
+  "main": "dist/4747bfb96cb961df.js",
   "scripts": {
     "build": "tsc",
-    "start": "node dist/e6d7d299dc6ca201.js"
+    "start": "node dist/4747bfb96cb961df.js"
   },
   "keywords": [],
   "author": "",
